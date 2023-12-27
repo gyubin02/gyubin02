@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **gyubin02/gyubin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrbqls980)](https://solved.ac/dlrbqls980)
+
 ![gyubin02's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyubin02&show_icons=true&theme=cobalt)
